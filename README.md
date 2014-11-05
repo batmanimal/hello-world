@@ -13,7 +13,7 @@ I like the following things:
 * Sitting 
 * Football
 
-This is my [blog](www.batmanimal.com)
+This is my [blog](http://www.batmanimal.com)
 
 The end. 
 =======
